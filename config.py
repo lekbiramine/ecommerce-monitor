@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-SEARCH_URL = "https://www.target.com/s?searchTerm=laptop"
+SEARCH_URL = "https://www.target.com/s?searchTerm=macbook+pro"
 CHECK_INTERVAL_SECONDS = 1800
 PRODUCT_LIST_FILE = "data/product_list.xlsx"
 PRODUCT_DETAILS_FILE = "data/current_products.xlsx"
